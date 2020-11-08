@@ -1,4 +1,2 @@
-Hello 
-Veri  cool
-
-Good luck and good mood to everyone
+# hello-world
+Jast do it
